@@ -1,0 +1,233 @@
+[
+  {
+    "original_name": "model_new.py",
+    "destination": "pcdd/model_new.py",
+    "original_sha256": "2027e63954aea26fb44b3cdf8bce62c213799a7036ba6dc8de7d0241ee18bbed",
+    "release_sha256": "2027e63954aea26fb44b3cdf8bce62c213799a7036ba6dc8de7d0241ee18bbed",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "model_reg_U.py",
+    "destination": "pcdd/model_reg_U.py",
+    "original_sha256": "9ec3c39025487fa3130bbccc2b47d7edc6762a64bf7acd14941f24e920b5a2fe",
+    "release_sha256": "9ec3c39025487fa3130bbccc2b47d7edc6762a64bf7acd14941f24e920b5a2fe",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "util.py",
+    "destination": "pcdd/util.py",
+    "original_sha256": "13ec8d86a80d0fefff48330049150c5b9de2ca42ff05cc6f0c422d9fa7692ca1",
+    "release_sha256": "13ec8d86a80d0fefff48330049150c5b9de2ca42ff05cc6f0c422d9fa7692ca1",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "data_displacement_cached.py",
+    "destination": "pcdd/data_displacement_cached.py",
+    "original_sha256": "93dbc2546b710f69d85dab6931a422b4f6ff57b700654ce3d441c0547866a285",
+    "release_sha256": "93dbc2546b710f69d85dab6931a422b4f6ff57b700654ce3d441c0547866a285",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "train_reg.py",
+    "destination": "pcdd/train_reg.py",
+    "original_sha256": "c68fb26f12503be250abb1e2b4885edd10e176bb5e1c1a63a6058e500cf866c7",
+    "release_sha256": "c68fb26f12503be250abb1e2b4885edd10e176bb5e1c1a63a6058e500cf866c7",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "preprocess_fps_cache.py",
+    "destination": "pcdd/preprocess_fps_cache.py",
+    "original_sha256": "9f47148cbd229dc09b3902b41030d578839e153209c99b54e46b5cb425416f4c",
+    "release_sha256": "9f47148cbd229dc09b3902b41030d578839e153209c99b54e46b5cb425416f4c",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "infer_and_viz_html.py",
+    "destination": "pcdd/infer_and_viz_html.py",
+    "original_sha256": "712a7dd500cefae7f8ce9382d75fab9562c7266b5d2996aa336cb607d4493184",
+    "release_sha256": "712a7dd500cefae7f8ce9382d75fab9562c7266b5d2996aa336cb607d4493184",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "export_attention_maps.py",
+    "destination": "pcdd/export_attention_maps.py",
+    "original_sha256": "0694fa4c6f85f41ed05eceee7dd3953f4186d305d46320d33e1d2f0ffa2f856b",
+    "release_sha256": "0694fa4c6f85f41ed05eceee7dd3953f4186d305d46320d33e1d2f0ffa2f856b",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "simulate_tls_batch_flat_raytrace.py",
+    "destination": "pcdd/simulate_tls_batch_flat_raytrace.py",
+    "original_sha256": "e216b7acd32ed36a4e9809e0d00e9c33f4b1b1576b799e6d58857ed1d3f261b2",
+    "release_sha256": "e216b7acd32ed36a4e9809e0d00e9c33f4b1b1576b799e6d58857ed1d3f261b2",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "pinn3_utils.py",
+    "destination": "pinn/pinn3_utils.py",
+    "original_sha256": "7a074d3fa24b5f725724bd3831a1c3e5708a65bad19b33c5dceae59f7ee90cbc",
+    "release_sha256": "7a074d3fa24b5f725724bd3831a1c3e5708a65bad19b33c5dceae59f7ee90cbc",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "PINN3_d20_hybrid_gp_v3_smooth20_pretrain_paperSnet3.py",
+    "destination": "pinn/PINN3_d20_hybrid_gp_v3_smooth20_pretrain_paperSnet3.py",
+    "original_sha256": "6d1a787f3ed276a88d6958cfbd84201ae1161bdf77808ed87c48bfc485dfd82f",
+    "release_sha256": "6d1a787f3ed276a88d6958cfbd84201ae1161bdf77808ed87c48bfc485dfd82f",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "PINN3_d20_hybrid_gp_v3_smooth20_finetune_weakEq_partial_strain.py",
+    "destination": "pinn/PINN3_d20_hybrid_gp_v3_smooth20_finetune_weakEq_partial_strain.py",
+    "original_sha256": "8ce14a3dc7caf98a7d56b8a101921e57bca1d4077eeb118e3a5bd69ae10b35af",
+    "release_sha256": "8ce14a3dc7caf98a7d56b8a101921e57bca1d4077eeb118e3a5bd69ae10b35af",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "hybrid_lbo_from_inp_solid_C3D20R_export_fast_v5(3)_with_dNdx_v2.py",
+    "destination": "pinn/hybrid_lbo_from_inp_solid_C3D20R_export_fast_v5(3)_with_dNdx_v2.py",
+    "original_sha256": "0368dda4456a739fb866b3659436724551053bfe1e41185281953829c8121421",
+    "release_sha256": "0368dda4456a739fb866b3659436724551053bfe1e41185281953829c8121421",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "run_controlled_ablation.py",
+    "destination": "supplementary/run_controlled_ablation.py",
+    "original_sha256": "5508563bf5fc6a6ca7282d34928dd3d991f36d403e591053f9413b9c813fb055",
+    "release_sha256": "61c9c9b121eab75422461ad8de92bb7090d755aff8efb18e8a2c08bb37789e3d",
+    "adaptation": "portable paths only"
+  },
+  {
+    "original_name": "run_numerical_ablation.py",
+    "destination": "supplementary/numerical_round/run_numerical_ablation.py",
+    "original_sha256": "ae8dce9aa89c22a24330d803383019c54bb72d70919e5be1a030e556315f5995",
+    "release_sha256": "6564dd69b1a341a7f18beff1e9b9c91e0777b0e1aec5e7aad09dea7e060a458f",
+    "adaptation": "portable paths only"
+  },
+  {
+    "original_name": "evaluate_multimetric_cpu.py",
+    "destination": "supplementary/numerical_round/evaluation/evaluate_multimetric_cpu.py",
+    "original_sha256": "7056cc60e42e1b3e89e6ad8f5a799664f6da96f81476c487605745aaa9680796",
+    "release_sha256": "71416dfd9b5ba8b6ecb47ff4fbd827db5bd6a51ea5b4cd2ba40e9316f1e6a87f",
+    "adaptation": "portable paths only"
+  },
+  {
+    "original_name": "Lab_GP20.npz",
+    "destination": "data/geometry/Lab_GP20.npz",
+    "original_sha256": "c4fed7e66abe799e763b120e536a751bf06305163edeb4b0128f5fac09ef3630",
+    "release_sha256": "c4fed7e66abe799e763b120e536a751bf06305163edeb4b0128f5fac09ef3630",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "Lab_solid_verified.inp",
+    "destination": "data/geometry/Lab_solid_verified.inp",
+    "original_sha256": "6c6aa6135bb611b8026128c04ab275e63b89c620104a42f88834850176d4db1e",
+    "release_sha256": "6c6aa6135bb611b8026128c04ab275e63b89c620104a42f88834850176d4db1e",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "Lab_LBO20.csv",
+    "destination": "data/geometry/Lab_LBO6_nodes.csv",
+    "original_sha256": "b126b4084c7355f6b88fa1bdc9b306d2e097471c39dd3e102a19507efc68d0d7",
+    "release_sha256": "b00836a670aeb481b4627e1a17d05f1d4c011bd58e9fbdc38a5982cdd63e0b6f",
+    "adaptation": "column-only extraction, original strings verified equal"
+  },
+  {
+    "original_name": "case0_input_axial.csv",
+    "destination": "supplementary/experimental_audit/case0_input_axial.csv",
+    "original_sha256": "2edff8cea0ad19db045031c3fd3dd00e59494e5982987ce2538cd51e6b267fcd",
+    "release_sha256": "2edff8cea0ad19db045031c3fd3dd00e59494e5982987ce2538cd51e6b267fcd",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "case0_holdout_axial.csv",
+    "destination": "supplementary/experimental_audit/case0_holdout_axial.csv",
+    "original_sha256": "4a3c521153565e51ba7fa75cb965a6db655bb9089c1eda123ee2931aba3fda37",
+    "release_sha256": "4a3c521153565e51ba7fa75cb965a6db655bb9089c1eda123ee2931aba3fda37",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "lab_case0_pcdd_prior.csv",
+    "destination": "supplementary/pcdd_audit/lab_case0_pcdd_prior.csv",
+    "original_sha256": "a047a70fe79353320e67954888096549d23edbcbead0926f81ba9b50431b8b86",
+    "release_sha256": "a047a70fe79353320e67954888096549d23edbcbead0926f81ba9b50431b8b86",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "case170_input_axial.csv",
+    "destination": "supplementary/numerical_round/fe_inputs/case170_input_axial.csv",
+    "original_sha256": "f04c050f4c14c2927070b37947f38e0bfeb88f3792e49ecc4ed2269ef61ed920",
+    "release_sha256": "f04c050f4c14c2927070b37947f38e0bfeb88f3792e49ecc4ed2269ef61ed920",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "case170_holdout_axial.csv",
+    "destination": "supplementary/numerical_round/fe_inputs/case170_holdout_axial.csv",
+    "original_sha256": "9189a27a0a07a05ea490b339fb0dcfd13346f31c1f34b36e99ea5f16ebcad301",
+    "release_sha256": "9189a27a0a07a05ea490b339fb0dcfd13346f31c1f34b36e99ea5f16ebcad301",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "case170_pcdd_prior.csv",
+    "destination": "supplementary/numerical_round/pcdd/case170_pcdd_prior.csv",
+    "original_sha256": "659ecaa915e9a00ccdde483aea95cc3203d2f4df251b45a27f57dbc63dd63d22",
+    "release_sha256": "659ecaa915e9a00ccdde483aea95cc3203d2f4df251b45a27f57dbc63dd63d22",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "case_manifest.json",
+    "destination": "supplementary/numerical_round/fe_inputs/case_manifest.json",
+    "original_sha256": "c2fc7183e6f0a3781e078ad530ef8edd0389ba6a634122b8b31ff9032ee9ed54",
+    "release_sha256": "f00e2d23f4abf288d153fcf0c569fc8a78d7aeeaccc1c33ea16b51feb402ba9f",
+    "adaptation": "selected scientific metadata, original scalar values retained"
+  },
+  {
+    "original_name": "experimental_case_multimetrics.csv",
+    "destination": "results/experimental_case_multimetrics.csv",
+    "original_sha256": "7ba353b836d8019f5d76dffe5fff577453804e7b79393e5765423f924424a3d3",
+    "release_sha256": "7ba353b836d8019f5d76dffe5fff577453804e7b79393e5765423f924424a3d3",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "numerical_case_multimetrics.csv",
+    "destination": "results/numerical_case_multimetrics.csv",
+    "original_sha256": "92778d73258bfc34c3d26dfaab3ae1651521bf451e5ac8a3b4ef73f3a5c1d5b4",
+    "release_sha256": "92778d73258bfc34c3d26dfaab3ae1651521bf451e5ac8a3b4ef73f3a5c1d5b4",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "heldout_pointwise.csv",
+    "destination": "results/heldout_pointwise.csv",
+    "original_sha256": "444902b03f8dc576c8f30990d7b6f7347696a8004b01503723bdc0f9edd618cf",
+    "release_sha256": "444902b03f8dc576c8f30990d7b6f7347696a8004b01503723bdc0f9edd618cf",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "metric_summary.csv",
+    "destination": "results/metric_summary.csv",
+    "original_sha256": "019bb1b6c5f4fe1d0a87ce118c9c5a874ce030cb7065649eddf0cc94a3e16601",
+    "release_sha256": "019bb1b6c5f4fe1d0a87ce118c9c5a874ce030cb7065649eddf0cc94a3e16601",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "fusion_aggregate_comparisons.csv",
+    "destination": "results/fusion_aggregate_comparisons.csv",
+    "original_sha256": "e903d6be1e6e67efdb143b4b18abb1825b9c6c5d36175c12f6075c0432d39776",
+    "release_sha256": "e903d6be1e6e67efdb143b4b18abb1825b9c6c5d36175c12f6075c0432d39776",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "local_weights.py",
+    "destination": "extensions/local_consistency/local_weights.py",
+    "original_sha256": "1fd31413791d4e7c851cbdbb5b1de6f9835498e66de7d1e886c5d3d31fcdb23c",
+    "release_sha256": "1fd31413791d4e7c851cbdbb5b1de6f9835498e66de7d1e886c5d3d31fcdb23c",
+    "adaptation": "byte-identical"
+  },
+  {
+    "original_name": "tests_local_weights.py",
+    "destination": "extensions/local_consistency/tests_local_weights.py",
+    "original_sha256": "9c9f079330c790be4854626971d74bc0ddb38a9c0a78b5291a949ee09344ef86",
+    "release_sha256": "9c9f079330c790be4854626971d74bc0ddb38a9c0a78b5291a949ee09344ef86",
+    "adaptation": "byte-identical"
+  }
+]

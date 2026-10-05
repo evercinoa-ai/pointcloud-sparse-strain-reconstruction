@@ -1,0 +1,113 @@
+{
+  "data_kind": "simulated finite-element observations, not physical measurements",
+  "case_selection": "Eight explicitly requested archived CASES3 validation cases; not additional experiments or independent test cases",
+  "case_ids": [
+    190,
+    181,
+    173,
+    160,
+    180,
+    170,
+    199,
+    183
+  ],
+  "cases": [
+    {
+      "case_id": 190,
+      "force_N": 22.21268407205823,
+      "theta_x_rad": 3.733227357559058e-05,
+      "input_axial_sha256": "d504c956e030bb1035e073ec81c35bb8222d459eb91a0a4ff8c4f63952149346",
+      "holdout_axial_sha256": "64e2e7714b60501602c6d9c3415af2d1242cbdcd56d4e8094949b31fdbb1b480",
+      "source_hashes": {
+        "META": "81553c2d67e6ae522815c710a237f65d110dc766f3c9a22e885818f8899b3712",
+        "FULL": "9d9751e1b86fab557c244796fd086c5ff1924270ffe5148b3d9bfc4d10293362",
+        "GP": "ae1a91f8a470cb710a7d8234aa1bd3182719f7cbbadf8ca500b854c319d312a6"
+      }
+    },
+    {
+      "case_id": 181,
+      "force_N": 79.13115492427903,
+      "theta_x_rad": 0.000132993649682422,
+      "input_axial_sha256": "ac02db92119aaabd38e54a969852b44a2b6b6b9dbc2f4d34bc29c02fbf9dde08",
+      "holdout_axial_sha256": "a6fda6e6e75fae47d5db17441d4a26a19373b951b9c2b05e499f8d1cd0a65f47",
+      "source_hashes": {
+        "META": "6659ab5f0dddfc34aef8677d3c716488d828a03f635bd34fba20ea4028a8027d",
+        "FULL": "3296cba4e09364c195327fcc688956576b8e9551e5432d1383334614508d2cbb",
+        "GP": "ef7a38756d973bbc40e2aea520fbb9ca1b8d3535ca2ed5b737a704768dc8cceb"
+      }
+    },
+    {
+      "case_id": 173,
+      "force_N": 990.8612978840989,
+      "theta_x_rad": 0.001648720714004349,
+      "input_axial_sha256": "38e852d8d13b31ce35e1bc9c225226a426951a298bb829430667879401d103cf",
+      "holdout_axial_sha256": "63d0ef418f75f837c9ffcf7367012027e4808604c0d2f9a79c8825be28545d7d",
+      "source_hashes": {
+        "META": "4ff8e2ef227aee70b71595d47d2e51f4035da09d8f4b8192b5614295ec5a731a",
+        "FULL": "c148f7bbb3a8e27ac9a09b539e2401b93bdb23fc92a76ecabce8033fa8113dde",
+        "GP": "f1ec01f124b3f0aa678e2a77e2586a245cbe54785c580959157fec9b10d3e791"
+      }
+    },
+    {
+      "case_id": 160,
+      "force_N": 2170.7509795177107,
+      "theta_x_rad": 0.0027034113564976055,
+      "input_axial_sha256": "d7ad50bb683fd7b845e34382b7276613edc4cd36fe295f8d5fd2f8efc5c0072f",
+      "holdout_axial_sha256": "b4cf880e7faa72e18890c035ee2fd25dade87fc52564b3c0ff29bcd452b6da53",
+      "source_hashes": {
+        "META": "b626b05a6887e7522ec4f92a76d41183e708ece745278767378ff26f79f6ad4d",
+        "FULL": "325beed5915dda406fd143bbf6d003671282e14b671dd5e086d6b33146883a1d",
+        "GP": "1822b9fc01764d86e67c8b4707e35cb77abe62b48f3aae431dfca956a883388e"
+      }
+    },
+    {
+      "case_id": 180,
+      "force_N": 2733.1366798010085,
+      "theta_x_rad": 0.0028248737332181206,
+      "input_axial_sha256": "b0e756cc2e312d8a27cd47420e9b5a9f2705d3c9e8596e0032ca7775667b53b9",
+      "holdout_axial_sha256": "93f51a8261104221902908c927655439230a48b28e16ba7c98466c0c70a25eeb",
+      "source_hashes": {
+        "META": "53911e9d952c349f20e4dafbbb9cb1522a542e66ff8951bd636eb0e8ad55028f",
+        "FULL": "fb3a60932cd82939c410a87e219a82fea55bc8062cbfe5529985ba19c63b6ee8",
+        "GP": "7761af08b4d2d4daaff4331558b5d6e45986817ce8966be25c24a0b16eee5108"
+      }
+    },
+    {
+      "case_id": 170,
+      "force_N": 3148.3871888129247,
+      "theta_x_rad": 0.0030171400426151126,
+      "input_axial_sha256": "f04c050f4c14c2927070b37947f38e0bfeb88f3792e49ecc4ed2269ef61ed920",
+      "holdout_axial_sha256": "9189a27a0a07a05ea490b339fb0dcfd13346f31c1f34b36e99ea5f16ebcad301",
+      "source_hashes": {
+        "META": "7bff9c81e4acc0f9f27d026c0630628585a8398412ecd6a00e2276767f7d35bd",
+        "FULL": "105e6e2e590eb32ddfeebaed6e767e29ed47f45038d0e9b282e43ed53beff0bd",
+        "GP": "1606ca85096fb2cb81babc7196002c60ca2808e23817b92af8b726399f9ef556"
+      }
+    },
+    {
+      "case_id": 199,
+      "force_N": 4387.871081892982,
+      "theta_x_rad": 0.0031693333419852386,
+      "input_axial_sha256": "0430c22aa10006404970472383ed935479b4d470b2ae1a8ae2c027c731615f14",
+      "holdout_axial_sha256": "0631f1a8bd40f74a26334fb64b2932218381b6e4287e13a9d9f39f6c0480edbd",
+      "source_hashes": {
+        "META": "3847b210bf98a3639d5d7ea57e7e03cac7cc418c345f2941e966b142262e0ba0",
+        "FULL": "835c45d4990d05d750e2d76097c213234aa6631ea4957fea66b286a9ede68901",
+        "GP": "cc78bb6ec57bebb2f9e085a9e81a33ca0f4bddaff8c503b8c60b3f535fcd4687"
+      }
+    },
+    {
+      "case_id": 183,
+      "force_N": 4942.483603320051,
+      "theta_x_rad": 0.003184883340439451,
+      "input_axial_sha256": "1c906afc65e36331278d0ef1d0a73dffcca8577807a5e565399f7ae1bc7ac9cc",
+      "holdout_axial_sha256": "db4ba79acf27390144fd1b75b1e4b7866d6005a24a9c953b5fc508cec203ce79",
+      "source_hashes": {
+        "META": "dc3047d328c1febc49670842daa68076e6760b2809e4294f06eb1962fc98222b",
+        "FULL": "564898f757cd9da85789a914718c7f0067a1dffd343dadfc032015477c09ee13",
+        "GP": "2092f4b14ad7d5deb74861256a5167cf97f927f47004954311182aaa5c197bbe"
+      }
+    }
+  ],
+  "release_note": "Only case170 input arrays are bundled; this manifest preserves the eight original case parameters."
+}

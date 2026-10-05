@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv*/
+external/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.opju
+.env
+.env.*
+supplementary/example_case*/
+supplementary/numerical_round/example_case*/
